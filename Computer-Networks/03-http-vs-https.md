@@ -1,7 +1,5 @@
 # HTTP vs HTTPS
-
-Alright bro, let me explain the difference between HTTP and HTTPS, and why HTTPS is so important for security!
-
+ 
 ## What is HTTP?
 
 **HTTP (Hypertext Transfer Protocol)** is the foundation of data communication on the web. It's how your browser talks to websites.
